@@ -1,5 +1,3 @@
-# pole-cart-balancer-RL
+# Running the repository
 
-# 读我
-# 栏杆与车左右平衡器
-# wing wong ching chong
+Running the Jupyter notebook from top to bottom should install the necessary libraries. 

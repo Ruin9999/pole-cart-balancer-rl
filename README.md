@@ -14,7 +14,7 @@ A project used to get familiarized with reinforced learning and its algorithms, 
 ## Lessons Learnt 📖
 
 ## Resources Used 👓 
-[Stable Baselines3 Documentation](https://stable-baselines3.readthedocs.io/en/master/index.html)
-[OpenAI Gymnasium Documentation](https://gymnasium.farama.org/#)
-[Proximity Policy Optimization](https://arxiv.org/abs/1707.06347)
-[Nicholas Renotte Reinforcement Learning Course](https://youtu.be/Mut_u40Sqz4)
+[Stable Baselines3 Documentation](https://stable-baselines3.readthedocs.io/en/master/index.html)  
+[OpenAI Gymnasium Documentation](https://gymnasium.farama.org/#)  
+[Proximity Policy Optimization](https://arxiv.org/abs/1707.06347)  
+[Nicholas Renotte Reinforcement Learning Course](https://youtu.be/Mut_u40Sqz4)  

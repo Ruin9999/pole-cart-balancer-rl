@@ -9,7 +9,9 @@ A project used to get familiarized with reinforced learning and its algorithms, 
 
 **Task 3** : Render one episode played by the developed RL agent on Jupyter. ✅
 
-**Task 4** : Format the Jupyter notebook by including step-by-step instruction and explanation, such that the notebook is easy to follow and run (refer to the tutorial section in the sample notebook). Include text explanation to demonstrate the originality of your implementation and your understanding of the code. For example, for each task, explain your approach and analyze the output; if you improve an existing approach, explain your improvements. 🟨
+**Task 4** : Format the Jupyter notebook by including step-by-step instruction and explanation, such that the notebook is easy to follow and run (refer to the tutorial section in the sample notebook). Include text explanation to demonstrate the originality of your implementation and your understanding of the code. For example, for each task, explain your approach and analyze the output; if you improve an existing approach, explain your improvements. ✅
+
+
 
 ## Lessons Learnt 📖
 
